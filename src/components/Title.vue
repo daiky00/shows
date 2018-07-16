@@ -16,7 +16,8 @@ export default class Title extends Vue {
 </script>
 <style lang="scss" scoped>
 .title {
-    border-bottom: 6px dotted #018f68;
+    border-bottom: 6px dotted #41b883;
     padding-bottom: 20px;
+    color: #35495e;
     }
 </style>

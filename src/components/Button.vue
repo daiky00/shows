@@ -23,7 +23,7 @@ export default class Button extends Vue {
 }
 
 .btn-primary {
-    background: linear-gradient(to right, rgba(107, 183, 86, 0.95), #008f68);
+    background: #41b883;
     color: #f5ea3c;
 }
 </style>

@@ -14,9 +14,9 @@ export default class Summary extends Vue {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 .summary {
-    background: #fff;
-    border: 1px solid #1a9964;
-    color: #000;
+    background: #35495e;
+    border: 1px solid #41b883;
+    color: #fff;
     font-size: 14px;
     padding: 16px;
     margin-bottom: 24px;

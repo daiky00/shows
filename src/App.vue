@@ -46,4 +46,8 @@ body {
     background: linear-gradient(to top, transparent, #fdf9ea);
     min-height: 100vh;
 }
+
+a {
+    color: #41b883;
+}
 </style>

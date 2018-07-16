@@ -15,7 +15,7 @@ export default class Header extends Vue {}
 
 <style lang="scss" scoped>
 .header {
-    background: linear-gradient(to right, #f5ea3c, #008f68);
+    background: linear-gradient(to right, #f5ea3c, #41b883);
     top: 0;
     left: 0;
     right: 0;
