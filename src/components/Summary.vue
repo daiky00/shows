@@ -14,14 +14,14 @@ export default class Summary extends Vue {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 .summary {
-    background: linear-gradient(to right, rgba(107, 183, 86, 0.95), #008f68);
+    background: #fff;
+    border: 1px solid #1a9964;
     color: #000;
     font-size: 14px;
     padding: 16px;
     margin-bottom: 24px;
 
     @media only screen and (max-width: 996px) {
-        background: linear-gradient(to left, #f5ea3c, #008f68);
         padding: 8px;
     }
 }
