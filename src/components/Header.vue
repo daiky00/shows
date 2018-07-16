@@ -15,13 +15,14 @@ export default class Header extends Vue {}
 
 <style lang="scss" scoped>
 .header {
-    background: linear-gradient(to right, #f5ea3c, #41b883);
+    background: linear-gradient(to right, #f5ea3c, #41b883, #35495e);
     top: 0;
     left: 0;
     right: 0;
     padding: 16px;
     display: flex;
     height: 18px;
+
 }
 
 .header-spacer {

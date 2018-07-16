@@ -19,5 +19,6 @@ export default class Title extends Vue {
     border-bottom: 6px dotted #41b883;
     padding-bottom: 20px;
     color: #35495e;
+    text-align: center;
     }
 </style>
